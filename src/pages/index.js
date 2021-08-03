@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <h1>Index Page</h1>
-      <Link href="/notes" />
+      <Link href="/notes">Notes</Link>
     </div>
   )
 }
