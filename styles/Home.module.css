@@ -65,8 +65,7 @@
   border-radius: 5px;
   padding: 0.75rem;
   font-size: 1.1rem;
-  font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono,
-    Bitstream Vera Sans Mono, Courier New, monospace;
+  font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace;
 }
 
 .grid {
@@ -111,6 +110,15 @@
 .logo {
   height: 1em;
   margin-left: 0.5rem;
+}
+
+.img-container {
+  position: relative;
+  height: 300px;
+}
+
+.cursor--p {
+  cursor: pointer;
 }
 
 @media (max-width: 600px) {
