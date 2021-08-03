@@ -5,3 +5,5 @@ export default function Notes() {
     </div>
   )
 }
+
+// create a new route by creating a folder
